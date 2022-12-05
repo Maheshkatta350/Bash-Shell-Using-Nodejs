@@ -1,0 +1,26 @@
+{
+  "name": "bash",
+  "version": "1.0.0",
+  "description": "Bash like Shell Using NodeJs",
+  "main": "app.js",
+  "scripts": {
+    "test": "Node shell.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maheshkatta350/Bash-Shell-Using-Nodejs.git"
+  },
+  "keywords": [
+    "Bash",
+    "Shell",
+    "Nodejs",
+    "Process",
+    "ChildProcess"
+  ],
+  "author": "Mahesh Katta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maheshkatta350/Bash-Shell-Using-Nodejs/issues"
+  },
+  "homepage": "https://github.com/Maheshkatta350/Bash-Shell-Using-Nodejs#readme"
+}
